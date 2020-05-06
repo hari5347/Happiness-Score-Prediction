@@ -4,7 +4,7 @@ Step 2: ​ Download the world development indicators data from ​https://datab
 
 Step 3: ​ Merge both the datasets, doing the following :
 
-	a) Bring happiness data into the format Country Code/Name, Year, Happiness Score (ignore error & the split up scores)
+	a) Bring happiness data into the format Country Code/Name, Year, Happiness Score
 	b) Bring Development Indicators data into the format Country Name, Year, Indicator 1 Value, Ind 2 Value, .... Ind 35 Value
 	c) Join the datasets on Country Code/Name,Year
 
